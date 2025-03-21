@@ -5,5 +5,5 @@ You can access my website at the following link:
 
 ### QR Code  
 Here is the QR code for quick access:  
-![QR Code](frame.png]
+![QR Code](frame.png)
 
