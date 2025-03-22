@@ -5,5 +5,16 @@ You can access my website at the following link:
 
 ### QR Code  
 Here is the QR code for quick access:  
-![QR Code](frame.png)
+![QR Code](frame.png)## Homework Files
+
+- `Hw-Q3.c`: c codes for question Q3
+- `Hw-Q3.exe`: output for Q3
+- `Hw-Q4a.c`:codes for Q4 (a)
+- `Hw-Q4a.exe`:output for Q4a
+- `Hw-Q4b.c`:codes for Q4 (b) void 
+- `Hw-Q4b.exe`: output for Q4
+- `Hw1-Q2.c`:codes for Q2
+- `HW1-Q2.exe`:output for Q2
+
+
 
