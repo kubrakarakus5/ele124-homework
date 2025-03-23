@@ -22,14 +22,14 @@ Here is the QR code for quick access:
 here is the my outputs
 
 ### Q2 output:
-![Q2](2025-03-22.png)
+(2025-03-22.png)
 
 ### Q3 output:
-![Q3](2025-03-22(1).png)
+(2025-03-22(1).png)
 
 ### Q4a output:
-![Q4a](2025-03-22(2).png)
+(2025-03-22(2).png)
 
-### Q4b output:
-![Q4b](2025-03-22(4).png)
+### Q4b output
+(2025-03-22(4).png)
 
