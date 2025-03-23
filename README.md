@@ -24,7 +24,7 @@ here is the my outputs
 ![Q2](2025-03-22.png)
 
 ### Q3 output:
-![Q3](2025-03-22(1).png)
+![Q3]2025-03-22%20(1).png
 
 ### Q4a output:
 ![Q4a](2025-03-22(2).png)
