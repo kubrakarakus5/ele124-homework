@@ -16,9 +16,10 @@ Here is the QR code for quick access:
 - `Hw1-Q2.c`:codes for Q2
 - `HW1-Q2.exe`:output for Q2
 
+
 ## 📸 Snapshot (Ekran Görüntüleri)
 
-Aşağıda ödev sorularına ait çalışan C kodlarının ekran görüntüleri yer almaktadır:
+Here is the my c output's screenshots
 
 ### Q2 output:
 ![Q2](2025-03-22.png)
@@ -27,7 +28,9 @@ Aşağıda ödev sorularına ait çalışan C kodlarının ekran görüntüleri 
 ![Q3](Q3.png)
 
 ### Q4a output:
-![Q4](Q4.png)
+![Q4a](Q4a.png)
 
+### Q4b output:
+![Q4b](Q4b.png)
 
 
